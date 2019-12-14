@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Ziheng Cao"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Those who cannot remember the past are condemned to repeat it"
   location         : "New York , US"
-  employer         :
+  employer         : "New York University"
   pubmed           : 
   googlescholar    : 
   email            : ziheng.cao@nyu.edu
